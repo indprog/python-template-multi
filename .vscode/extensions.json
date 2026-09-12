@@ -1,7 +1,8 @@
 {
 	"recommendations": [
-		"GitHub.vscode-pull-request-github",
-		"llvm-vs-code-extensions.vscode-clangd",
-		"vadimcn.vscode-lldb"
-	],
+		"ms-python.python",
+		"ms-python.black-formatter",
+		"ms-pyright.pyright",
+		"GitHub.vscode-pull-request-github"
+	]
 }

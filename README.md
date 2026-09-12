@@ -1,5 +1,5 @@
-# C template for multiple main files
+# Python template for multiple programs in one folder
 
-For https://c-programming.aydos.de
+For https://industrial-programming.aydos.de
 
-Select a C main file and press <kbd>F5</kbd> to start your program. There are two examples for testing: `hello.c` and `pi-estimator.c`.
+Python files belong to `src` folder. Select a file and press <kbd>F5</kbd> to start your program. There are two examples for testing; one with and one without user input.
