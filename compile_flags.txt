@@ -1,0 +1,5 @@
+-std=gnu23
+-g
+-Iinc
+-Wall
+-Wextra
