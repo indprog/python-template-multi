@@ -2,7 +2,8 @@
 	"recommendations": [
 		"ms-python.python",
 		"ms-python.black-formatter",
-		"ms-pyright.pyright",
+		"detachhead.basedpyright",
+		"charliermarsh.ruff",
 		"GitHub.vscode-pull-request-github"
 	]
 }
