@@ -2,5 +2,6 @@
     "editor.formatOnSave": true,
     "git.postCommitCommand": "push",
     "git.enableSmartCommit": true,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "editor.inlayHints.enabled": "offUnlessPressed"
 }
