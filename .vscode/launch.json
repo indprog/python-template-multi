@@ -4,7 +4,7 @@
             "type": "debugpy",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/src/${fileBasename}",
+            "program": "${workspaceFolder}/${relativeFile}",
             "console": "integratedTerminal"
         }
     ],
