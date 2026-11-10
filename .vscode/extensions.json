@@ -4,6 +4,7 @@
 		"detachhead.basedpyright",
 		"charliermarsh.ruff",
 		"GitHub.vscode-pull-request-github",
-		"ahernguo.urscript"
+		"ahernguo.urscript",
+		"qwtel.sqlite-viewer"
 	]
 }
