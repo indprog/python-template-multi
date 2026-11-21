@@ -3,5 +3,11 @@
     "git.postCommitCommand": "push",
     "git.enableSmartCommit": true,
     "git.autofetch": true,
-    "editor.inlayHints.enabled": "offUnlessPressed"
+    // Avoid overwhelming information for beginner students 
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    // Classroom50 opens a "Feedback" PR with main as the head branch.
+    // Ignore main so the extension doesn't attach that PR to it.
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
 }
